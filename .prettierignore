@@ -1,0 +1,8 @@
+node_modules
+dist
+target
+pnpm-lock.yaml
+Cargo.lock
+src-tauri/gen
+src-tauri/icons
+LICENSE-*

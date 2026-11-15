@@ -1,0 +1,8 @@
+[package]
+name = "dsp"
+version = "0.1.0"
+description = "Audio analysis for Fourier Garden: pure Rust, no Windows code"
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
